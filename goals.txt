@@ -1,0 +1,22 @@
+My Personal and Academic Goals for Next Year
+
+Build and launch a fully functional web or mobile app:
+Apply what I’m learning in software engineering to create a real world product, possibly an improved version of LearnPod.
+
+Secure a tech internship or mentorship opportunity:
+Gain hands on industry experience, grow my skills, and learn directly from professionals in software engineering and accessibility-focused tech.
+
+Strengthen my programming skills:
+ Master Python, HTML/CSS, and JavaScript, and begin learning a backend language like Node.js or Django.
+
+Contribute to an open-source project:
+Collaborate with global developers and give back to the tech community by contributing to inclusive or educational tech tools.
+
+Advocate for girls in STEM:
+Host or speak at at least one event, workshop, or online platform that encourages girls (especially in underserved communities) to pursue tech.
+
+Develop a strong LinkedIn and GitHub presence:
+Share my journey weekly, connect with professionals, and build a portfolio that reflects who I am and what I’m passionate about.
+
+Prioritize wellbeing and discipline:
+Balance my tech growth with selfcare, consistency, and time for reflection so I stay focused, healthy, and motivated.
