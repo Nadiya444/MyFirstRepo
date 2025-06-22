@@ -1,0 +1,13 @@
+Brief Introduction About Myself.
+
+My name is Nadiya, and I’m a Software Engineering student at ALCHE. I’m passionate about building technology that creates real world impact especially for people and communities often left out of the conversation.
+
+Right now, I’m working on LearnPod, a learning app designed to support blind and deaf students. This project reflects what I care most about: making education more accessible, inclusive, and empowering for everyone.
+
+My journey into tech didn’t start with a perfect answer it started with curiosity, persistence, and the belief that I could learn. I’ve also gained hands-on experience in mechanical and electrical engineering, which shaped how I approach problem-solving today.
+
+I care deeply about advocating for girls in STEM, and I want to help shift the narrative by showing what’s possible when we're given access, encouragement, and opportunity.
+
+I’m still learning. I’m still growing. And I’m always open to collaboration, mentorship, or just meaningful conversations with people who care about tech for good.
+
+Let’s build something better together.
